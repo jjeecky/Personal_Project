@@ -9,6 +9,7 @@ Planning on developing it further to make it into a functioning application.
 
 ### How to use:
 **1.** 
+Open & navigate to the Demo_insta.py file. 
 Although the instructions will show once you run the code, here is a brief description:
 Run using the code:
 python3 Demo_insta.py

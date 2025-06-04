@@ -1,0 +1,1 @@
+from bbmodcache.bbSearch import SearchProblem, search
